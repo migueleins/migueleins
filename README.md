@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 👯 I’m looking to collaborate on **Python projects.**
+- 👯 I’m looking to collaborate on **Data Analytics projects.**
 
 - 💬 Ask me about **Python, Power BI or SQL**
 
