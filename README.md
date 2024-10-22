@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 
+<!--  -->About me..
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Miguel+Ángel+Osorio+Apraez..;Industrial+Engineer,;Data+Analyst,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..:)"></a>
  </p>
